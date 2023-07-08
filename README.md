@@ -22,7 +22,7 @@ II. Precision<br>
 III. Recall<br>
 IV. F-1 score<br>
 #### 2. Assignment on Regression technique<br>
-Download temperature data from below link. https://www.kaggle.com/venky73/temperaturesof-india?select=temperatures.csv
+Download temperature data from below link. https://www.kaggle.com/venky73/temperatures-of-india?select=temperatures.csv
 This data consists of temperatures of INDIA averaging the temperatures of all places month
 wise. Temperatures values are recorded in CELSIUS<br>
 a. Apply Linear Regression using suitable library function and predict the Month-wise
@@ -93,7 +93,7 @@ minimum confidence value and find the rules accordingly<br>
 #### 7. Assignment on Multilayer Neural Network Model<br>
 Download the dataset of National Institute of Diabetes and Digestive and Kidney Diseases from
 below link :<br>
-Data Set: https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indiansdiabetes.data.csv
+Data Set: https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv
 The dataset is has total 9 attributes where the last attribute is “Class attribute” having values 0
 and 1. (1=”Positive for Diabetes”, 0=”Negative”)<br>
 a. Load the dataset in the program. Define the ANN Model with Keras. Define at least two
