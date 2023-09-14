@@ -1,7 +1,7 @@
 # ML-Codes
 SPPU Third Year IT Machine Learning Lab Assignments
 
-## List of Assignm
+## List of Assignme
 ### Group A
 #### 1. Data preparation: <br>
  Download heart dataset from following link. <br>
